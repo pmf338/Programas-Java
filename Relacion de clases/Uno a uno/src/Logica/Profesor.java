@@ -1,0 +1,43 @@
+package Logica;
+
+public class Profesor {
+    
+    int id_profesor;
+    String nombre;
+    String apellido;
+
+    public Profesor() {
+    }
+
+    public Profesor(int id_profesor, String nombre, String apellido) {
+        this.id_profesor = id_profesor;
+        this.nombre = nombre;
+        this.apellido = apellido;
+    }
+
+    public int getId_profesor() {
+        return id_profesor;
+    }
+
+    public void setId_profesor(int id_profesor) {
+        this.id_profesor = id_profesor;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public String getApellido() {
+        return apellido;
+    }
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+    }
+    
+    
+}
