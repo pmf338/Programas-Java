@@ -1,0 +1,9 @@
+Datos base de datos
+
+-Usuario: tpo2integrador
+-Contraseña: tpo2integrador
+-BD: peluqueria_canina
+-Url:http://localhost/phpmyadmin/sql.php?db=peluqueria_canina&table=mascota&pos=0
+-host:localhost
+-cotejamiento:latin1_swedish_ci
+-JDBC Connection: jdbc:mysql://localhost:3306/peluqueria_canina?serverTimezone=UTC [tpo2integrador on Default schema]
