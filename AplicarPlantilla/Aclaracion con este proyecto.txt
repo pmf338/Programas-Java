@@ -1,0 +1,2 @@
+El codigo en este proyecto no funciona, todo el codigo es solo un ejemplo de como deberia
+funcionar una plantilla HTML ya hecha en un JSP, el codigo estaria bien con las clases adecuadas
